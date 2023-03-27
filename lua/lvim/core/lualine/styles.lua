@@ -99,6 +99,7 @@ styles.lvim = {
       components.lsp,
       components.spaces,
       components.filetype,
+      "encoding",
     },
     lualine_y = { components.location },
     lualine_z = {

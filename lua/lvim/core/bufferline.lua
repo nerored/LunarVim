@@ -109,7 +109,7 @@ M.config = function()
         },
         {
           filetype = "NvimTree",
-          text = "Explorer",
+          text = "文件浏览",
           highlight = "PanelHeading",
           padding = 1,
         },
@@ -127,6 +127,12 @@ M.config = function()
         {
           filetype = "lazy",
           text = "Lazy",
+          highlight = "PanelHeading",
+          padding = 1,
+        },
+        {
+          filetype = "Outline",
+          text = "符号列表",
           highlight = "PanelHeading",
           padding = 1,
         },

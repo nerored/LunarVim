@@ -16,6 +16,7 @@ M.config = function()
         "NvimTree",
         "Trouble",
         "text",
+        "Outline",
       },
       char = lvim.icons.ui.LineLeft,
       context_char = lvim.icons.ui.LineLeft,
